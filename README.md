@@ -6,7 +6,6 @@ Sauce Labs implementation will be added
 ## Prerequisites for using
 ```
 1. Java
-
 ```
 
 ## How to Use 
