@@ -10,7 +10,7 @@ Sauce Labs implementation will be added
 ```
 
 ## How to Use 
-```text
+
 1. clone the project and go to it's folder on terminal
 
 2. create 'driver' folder in project directory and paste [downloaded](http://chromedriver.chromium.org/downloads) chrome driver
@@ -20,5 +20,3 @@ Sauce Labs implementation will be added
 3. type './gradlew clean test'
 
 4. enjoy
-
-```
