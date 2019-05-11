@@ -17,6 +17,6 @@ Sauce Labs implementation will be added
    or change the driver path in Base.groovy 
 
    
-3. type './gradlew clean test'
+3. type ```./gradlew clean test```
 
 4. enjoy
