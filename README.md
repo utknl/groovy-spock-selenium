@@ -20,18 +20,3 @@ Sauce Labs implementation will be added
 3. type ```./gradlew clean test``` if this gives fail please try ```gradlew clean test```
 
 4. enjoy
-
-## How to Create
-
-###### Note: I strongly recommend Intellij Idea for creating Gradle projects but if you love trouble in your life please follow:
-
-1. download [gradle](https://gradle.org/)
-
-2. create a directory, on directory path, type `gradle init --type java-library` on terminal
-```text
-   This will create all the package structure along with build.gradle
-```
-
-3. open the build.gradle and make the required changes as you wish (inspect my build.gradle file or just copy paste)
-
-4. on terminal type ```./gradlew build``` or ```gradlew build``` and it's ready
