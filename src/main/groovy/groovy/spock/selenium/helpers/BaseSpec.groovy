@@ -6,12 +6,13 @@ class BaseSpec extends Base {
         driver = initializeDriver()
     }
 
-    def cleanup(){
+    def cleanup() {
         print("\n========================\n")
     }
 
     def cleanupSpec() {
         driver.close()
+        driver.quit()
     }
 
 }

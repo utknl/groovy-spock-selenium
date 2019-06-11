@@ -98,7 +98,7 @@ class NumberGeneratorSpec extends BaseSpec {
         uniqueList.size() == 8
     }
 
-    def "should generate numbers in stated quantities for selected groups"(){
+    def "should generate numbers in stated quantities for selected groups"() {
         given:
         generatorPage.setQuantity(6).click()
         generatorPage.setGroups(6).click()
