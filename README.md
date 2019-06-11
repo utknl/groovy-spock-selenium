@@ -1,19 +1,17 @@
 # groovy-spock-selenium
 Sauce Labs and Selenium demo using Spock framework.
 
-Sauce Labs implementation will be added
-
 ## Prerequisites for using
 ```
-1. Java
+1. java
+2. sauce labs account
 ```
 
 ## How to Use 
 
 1. clone the project
 
-2. create 'driver' folder in project directory and paste [downloaded](http://chromedriver.chromium.org/downloads) chrome driver
-   or change the driver path in Base.groovy 
+2. type your sauce labs name and access key on base.groovy
 
 3. open the project on terminal
    
